@@ -1,2 +1,2 @@
 # GTPfromScratch
-Let"s build GPT from Scratch.
+Let"s build GPT to reinvent William Shakespeare from Scratch.
