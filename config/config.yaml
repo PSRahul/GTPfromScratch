@@ -8,5 +8,5 @@ hydra:
   run:  
     dir: .
     
-ataset:
-  txt_file_path: dataset/train_data.txt
+dataset:
+  text_file_path: dataset/train_data.txt
